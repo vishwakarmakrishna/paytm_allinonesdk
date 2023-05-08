@@ -1,6 +1,6 @@
 name: paytm_allinonesdk
 description: "Paytm All-in-One SDK provides a swift, secure, and seamless payment experience to your users by invoking the Paytm app (if installed on your user’s smartphone) to complete payment for your order.\nIt enables you to accept payment via Paytm Wallet, Paytm Payments Bank, Saved Debit/Credit Cards, Net Banking, BHIM UPI, or EMI as available in your customer’s Paytm account.\nIf the Paytm app is not installed on a customer's device, the transaction will be processed via web view within the All-in-One SDK."
-version: 1.2.1
+version: 1.2.2
 homepage: "https://developer.paytm.com/docs/all-in-one-sdk/"
 
 environment:
